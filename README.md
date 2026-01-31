@@ -1,4 +1,4 @@
-Robot Javalin - December 2025<br>
+Timely Journey - January 2026<br>
 https://www.janestreet.com/puzzles/current-puzzle
 
 Shut the Box - November 2025<br>
