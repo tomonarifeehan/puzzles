@@ -39,3 +39,6 @@ analytic solution
 <p align = "center">
   <img alt = "grid" src = "./robot_javalin_solve.png" width = "50%">
 </p>
+
+apr puzz
+I find the twentieth smallest number with digits totaling 26
