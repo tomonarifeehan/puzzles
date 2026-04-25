@@ -1,5 +1,11 @@
-Timely Journey - January 2026<br>
+Can U Dig It?<br>
 https://www.janestreet.com/puzzles/current-puzzle
+
+Subtiles 2 - February 2026<br>
+https://www.janestreet.com/puzzles/subtiles-2-solution
+
+Timely Journey - January 2026<br>
+https://www.janestreet.com/puzzles/timely-journey-solution
 
 Shut the Box - November 2025<br>
 https://www.janestreet.com/puzzles/shut-the-box-solution
@@ -25,7 +31,7 @@ https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution
 Knight Moves 6 - October 2024<br>
 https://www.janestreet.com/puzzles/knight-moves-6-solution
 
-useless pentomino tool
+useless tool
 <p align = "center">
   <img alt = "garbage pentomino tool" src = "./garbage-tool.gif" width = "50%">
 </p>
@@ -35,10 +41,6 @@ grid cutout
   <img alt = "grid" src = "./shut_the_box_solve.png" width = "50%">
 </p>
 
-analytic solution
-<p align = "center">
-  <img alt = "grid" src = "./robot_javalin_solve.png" width = "50%">
-</p>
-
-apr puzz
+apr puzz<br>
 I find the twentieth smallest number with digits totaling 26
+ggs ggs
