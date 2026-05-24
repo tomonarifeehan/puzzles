@@ -1,5 +1,8 @@
-Can U Dig It?<br>
+Arch Madness - May 2026<br>
 https://www.janestreet.com/puzzles/current-puzzle
+
+Can U Dig It? - April 2026<br>
+https://www.janestreet.com/puzzles/can-u-dig-it-solution
 
 Subtiles 2 - February 2026<br>
 https://www.janestreet.com/puzzles/subtiles-2-solution
