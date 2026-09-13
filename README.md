@@ -1,5 +1,5 @@
 Arch Madness - May 2026<br>
-https://www.janestreet.com/puzzles/current-puzzle
+https://www.janestreet.com/puzzles/arch-madness-index
 
 Can U Dig It? - April 2026<br>
 https://www.janestreet.com/puzzles/can-u-dig-it-solution
@@ -33,11 +33,6 @@ https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution
 
 Knight Moves 6 - October 2024<br>
 https://www.janestreet.com/puzzles/knight-moves-6-solution
-
-useless tool
-<p align = "center">
-  <img alt = "garbage pentomino tool" src = "./garbage-tool.gif" width = "50%">
-</p>
 
 grid cutout
 <p align = "center">
